@@ -1,0 +1,6 @@
+[submodule "cdc"]
+	path = cdc
+	url = https://github.com/evanthegrayt/cdc.git
+[submodule "vb"]
+	path = vb
+	url = https://github.com/evanthegrayt/vagrant-box-switcher.git
